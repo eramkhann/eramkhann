@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/nakulsingh13/nakulsingh13/blob/main/waving-hand-joypixels.gif" width="40px" style="max-width:100%;">
+    <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="40px" style="max-width:100https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://github.com/nakulsingh13/nakulsingh13/blob/main/waving-hand-joypixels.gif" width="40px" />
+    <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="40px" />
   </a>
 </h1>
 
